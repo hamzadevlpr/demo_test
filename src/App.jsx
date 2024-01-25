@@ -7,6 +7,7 @@ function App() {
     <p className="text-2xl text-rose-600">This is new changes</p>
     <p className="text-2xl text-rose-600">This changes is on feature-C (cluster)</p>
     <p className="text-2xl text-rose-600">This cis new hanges is on feature-C (cluster)</p>
+    <p className="text-2xl text-rose-600">This shah branch</p>
     </>
 
   )
