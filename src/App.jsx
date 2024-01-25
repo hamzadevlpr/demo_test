@@ -4,12 +4,8 @@ function App() {
   return (
     <>
     <div className="text-6xl font-bold">Hello Malik World! (dropdown) New Change</div>
-    <p className="text-2xl text-rose-600">This is new changes (dropdown)</p>
-
-    <div className="text-6xl font-bold">Hello Malik World!</div>
-    
-    <div className="text-6xl font-bold">Hello Malik (button)</div>
-
+    <p className="text-2xl text-rose-600">This is new changes</p>
+    <p className="text-2xl text-rose-600">This changes is on feature-C</p>
     </>
 
   )
